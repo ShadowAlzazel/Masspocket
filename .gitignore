@@ -16,5 +16,3 @@ __pycache__
 # Distribution / packaging
 .Python
 build/
-lib/
-lib64/
